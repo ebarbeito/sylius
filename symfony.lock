@@ -40,6 +40,9 @@
     "behat/transliterator": {
         "version": "v1.3.0"
     },
+    "bitbag/sylius-adyen-plugin": {
+        "version": "v2.1.0"
+    },
     "clue/stream-filter": {
         "version": "v1.4.1"
     },
@@ -378,6 +381,18 @@
     },
     "nikic/php-parser": {
         "version": "v4.6.0"
+    },
+    "nyholm/psr7": {
+        "version": "1.8",
+        "recipe": {
+            "repo": "github.com/symfony/recipes",
+            "branch": "main",
+            "version": "1.0",
+            "ref": "4a8c0345442dcca1d8a2c65633dcf0285dd5a5a2"
+        },
+        "files": [
+            "config/packages/nyholm_psr7.yaml"
+        ]
     },
     "openlss/lib-array2xml": {
         "version": "1.0.0"
