@@ -55,6 +55,7 @@
         "knplabs/knp-gaufrette-bundle": "^0.7 || ^0.8",
         "knplabs/knp-menu": "^3.1",
         "knplabs/knp-menu-bundle": "^3.0",
+        "knplabs/knp-snappy-bundle": "^1.10",
         "laminas/laminas-stdlib": "^3.3.1",
         "league/flysystem-bundle": "^2.4",
         "lexik/jwt-authentication-bundle": "^2.11",
