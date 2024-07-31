@@ -80,6 +80,7 @@
         "sylius/grid-bundle": "^1.11",
         "sylius/mailer": "^1.8 || ^2.0@beta",
         "sylius/mailer-bundle": "^1.8 || ^2.0@beta",
+        "sylius/refund-plugin": "^1.4",
         "sylius/registry": "^1.5",
         "sylius/resource": "^1.9",
         "sylius/resource-bundle": "^1.9",

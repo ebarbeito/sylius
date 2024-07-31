@@ -604,6 +604,19 @@
     "sylius/mailer-bundle": {
         "version": "v1.5.1"
     },
+    "sylius/refund-plugin": {
+        "version": "1.4",
+        "recipe": {
+            "repo": "github.com/symfony/recipes-contrib",
+            "branch": "main",
+            "version": "0.4",
+            "ref": "a3f813f608c6f04bd7d0b4cefd73a96bf378c390"
+        },
+        "files": [
+            "config/packages/sylius_refund.yaml",
+            "config/routes/sylius_refund.yaml"
+        ]
+    },
     "sylius/registry": {
         "version": "v1.4.0"
     },
