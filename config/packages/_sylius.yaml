@@ -21,3 +21,10 @@ sylius_api:
 sylius_shop:
     product_grid:
         include_all_descendants: true
+
+bitbag_sylius_adyen:
+    logger: ~
+    supported_types:
+        - bizum
+        - applepay
+        - googlepay
